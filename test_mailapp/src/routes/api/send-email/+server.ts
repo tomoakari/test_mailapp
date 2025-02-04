@@ -20,7 +20,7 @@ export async function POST({ request }) {
         {
           From: {
             Email: SENDER_EMAIL,
-            Name: "メール送信アプリ"
+            Name: "メール送信アプリだよ"
           },
           To: [
             {
